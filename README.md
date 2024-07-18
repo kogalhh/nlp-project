@@ -7,7 +7,6 @@ The goal of this Project is to extract bilingual articles from New York Times â€
 [NLP project PDF.pdf](https://github.com/user-attachments/files/16286295/NLP.project.PDF.pdf)
 
 
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+
+This project enables users to efficiently download the articles in seperate languages with date labels.  
+
