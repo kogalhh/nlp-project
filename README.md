@@ -4,7 +4,7 @@ Download the latest articles from the New York Times bilingual website and sort 
 
 What the project does:
 The goal of this Project is to extract bilingual articles from New York Times “https://cn.nytimes.com/zh-hant/”
-![image](https://github.com/kogalhh/nlp-project/assets/138360766/d733f13d-274d-4046-ab86-b219a0701a4b)
+[NLP project PDF.pdf](https://github.com/user-attachments/files/16286295/NLP.project.PDF.pdf)
 
 
 Why the project is useful
